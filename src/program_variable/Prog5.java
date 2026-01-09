@@ -10,7 +10,7 @@ public class Prog5 {
 		System.out.println(i);
 		
 		int j=65;
-		char g=j;
+		char g=(char) j;
 		System.out.println(g);
 	}
 
