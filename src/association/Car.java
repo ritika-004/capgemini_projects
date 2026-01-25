@@ -1,6 +1,6 @@
 package association;
 public class Car {
-
+//composition
 	//new Car()
 	private String brand;//null
 	private double price;//0.0

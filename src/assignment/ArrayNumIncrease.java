@@ -21,7 +21,7 @@ public class ArrayNumIncrease {
 	            digits++;
 	            temp /= 10;
 	        }
-
+                   
 	        // new array
 	        int[] result = new int[digits];
 
